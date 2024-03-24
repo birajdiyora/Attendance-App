@@ -5,6 +5,7 @@ import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
 
+//Attendance database
 @Database(entities = [Subject::class,SubjectAttendance::class,Student::class], version = 1, exportSchema = false)
 abstract class AttendanceDatabase : RoomDatabase() {
     abstract fun getStudentDao() : StudentDao
