@@ -3,6 +3,7 @@ package com.example.attendance.data
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 
+//Student database
 @Entity(tableName = "student")
 data class Student(
     @PrimaryKey(autoGenerate = true)
