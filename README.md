@@ -6,9 +6,9 @@ Attendance is a mobile application developed using Android Jetpack Compose and K
 
 - **Subject Management**: Students can add and manage subjects from the navigation panel's subjects section. All subjects are displayed here for easy access.
 
-- **Attendance Tracking**: The home screen displays all subjects along with the number of attended and absent lectures. Students can click on a subject to mark their attendance for specific lectures. The attendance screen also shows the present and absent lecture dates and displays the attendance percentage in a circular pie chart.
+- **Attendance Tracking**: The home screen displays all subjects along with the number of attended and absent lectures. Students can click on a subject to mark their attendance for specific lectures. The attendance screen also shows the present and absent lecture dates and displays the attendance percentage in a Doughnut pie chart.
 
-- **Overall Attendance**: The overall attendance screen displays the overall attendance percentage in a pie chart. It also shows the attendance for each subject date-wise.
+- **Overall Attendance**: The overall attendance screen displays the overall attendance percentage in a Doughnut pie chart. It also shows the attendance for each subject.
 
 ## Screenshots:
 <table>
