@@ -1,6 +1,6 @@
-# Attendance
+# Attendance App
 
-Attendance is a mobile application developed using Android Jetpack Compose and Kotlin, designed to help students track their attendance for various subjects efficiently.
+Attendance App is a mobile application developed using Android Jetpack Compose and Kotlin, designed to help students track their attendance for various subjects efficiently.
 
 ## Features:
 
